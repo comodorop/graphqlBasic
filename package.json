@@ -10,6 +10,6 @@
   "author": "Pablo Torres",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.12.0"
+    "apollo-server": "^2.14.2"
   }
 }
